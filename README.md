@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
                                     COLLABORATION SYSTEM
 
@@ -102,3 +103,6 @@ Steps for implementing Django with Mysql assuming you have already install Mysql
     </ul>
   {% endif %}
   ```
+=======
+# project1
+>>>>>>> 06e2b07ce2832b18c1707d4c76a341ec8cb71e2f
